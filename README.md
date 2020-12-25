@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![T. Suzuki's github stats](https://github-readme-stats.vercel.app/api?username=zuzuta)](https://github.com/zuzuta/github-readme-stats)
+[![T. Suzuki's github stats](https://github-readme-stats.vercel.app/api?username=zuzuta&count_private=true&show_icons=true&theme=radical)](https://github.com/zuzuta/github-readme-stats)
 
 <!--
 **zuzuta/zuzuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
