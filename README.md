@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm T. Suzuki, a motivated self-learning programmer and data scientist, working at San Jose/CA.
+
+- 🌱 I’m currently learning Machine Learning, Data Science.
+- 🤔 I’m looking for help with learning the basis of the college level mathematics.
+- 💬 Ask me about にんにくラーメン.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tatsuro-suzuki-9aa73b138/).
+
 [![T. Suzuki's github stats](https://github-readme-stats.vercel.app/api?username=zuzuta&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zuzuta/github-readme-stats)
 
 <!--
